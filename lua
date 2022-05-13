@@ -3,7 +3,7 @@ local RunService = game:GetService("RunService")
 local Camera = workspace.CurrentCamera
 
 local SPEED_MULTIPLIER = 30
-local JUMP_POWER = 158
+local JUMP_POWER = 100
 local JUMP_GAP = 0.3
 
 local character = game.Players.LocalPlayer.Character
